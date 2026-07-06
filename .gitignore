@@ -1,0 +1,12 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.idea/
+.vscode/
+coverage.cobertura.xml
+coverage.opencover.xml
+[Cc]overage*/
+*.trx
+TestResults/
